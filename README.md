@@ -3,3 +3,4 @@ Password Manager Terminal is a user interface designed to securely store, manage
 
 # Visit to Manage the Password
 https://aakarshsrivastawa.github.io/Password-Manage-Terminal/
+"# password-mgr" 
